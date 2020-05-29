@@ -1,2 +1,4 @@
 # Assignment-2
-Assignment 2 of Summer Training [MERN Stack]
+# Name - Vala Bhagirath Singh
+# Roll No - 17EJTCS086
+See live demo - https://valavb.github.io/Assignment-2/
